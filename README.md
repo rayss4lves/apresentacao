@@ -8,7 +8,7 @@
 
 ## 💬 Sobre mim
 
-Olá! Me chamo Rayssa, sou de [sua cidade] e atualmente estou cursando Sistemas de Informação.  
+Olá! Me chamo Rayssa, sou de [Picos - PI] e atualmente estou cursando Sistemas de Informação.  
 Tenho me dedicado ao desenvolvimento backend com foco em criar APIs modernas, escaláveis e bem estruturadas.  
 Gosto de transformar ideias em soluções eficientes, utilizando tecnologias robustas como Python, Java, Spring Boot, PostgreSQL e Docker. 🚀
 
@@ -39,8 +39,8 @@ Gosto de transformar ideias em soluções eficientes, utilizando tecnologias rob
 ## 🤝 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayss4lves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@email.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rayssa-alves-74240a331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="rayssasantos.com890@email.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">✨ “A tecnologia move o mundo, mas são as pessoas que o criam.” ✨</p>
