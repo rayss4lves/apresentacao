@@ -4,15 +4,11 @@
   Desenvolvedora Backend | Python | Java | Spring Boot | Docker | Git | PostgreSQL
 </p>
 
----
-
-## 💬 Sobre mim
-
-Olá! Me chamo Rayssa, sou de [Picos - PI] e atualmente estou cursando Sistemas de Informação.  
+Olá! Me chamo Rayssa, sou de Picos - PI e atualmente estou cursando Sistemas de Informação.  
 Tenho me dedicado ao desenvolvimento backend com foco em criar APIs modernas, escaláveis e bem estruturadas.  
 Gosto de transformar ideias em soluções eficientes, utilizando tecnologias robustas como Python, Java, Spring Boot, PostgreSQL e Docker. 🚀
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
